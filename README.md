@@ -7,17 +7,17 @@
   </h6>
 
 <p align="center">
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/Olajide%20Otolorn%20(8).png" alt="[Your Name] Banner Image" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/Olajide%20Otolorn%20(8).png" alt="Olajide Otolorin" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[YourLinkedIn]">
+  <a href="https://www.linkedin.com/in/olajide-otolorin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://twitter.com/[YourTwitter]">
+  <a href="https://twitter.com/PrinceolaNft">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-  <a href="https://t.me/[YourTelegram]">
+  <a href="https://t.me/@jideagain">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
 </p>
