@@ -1,15 +1,69 @@
-[![MasterHead]
-<h1 align="center">Hi 👋, I'm Olajide Otolorin</h1>
-<h3 align="center">I am a Salesforce Developer, CPQ Specialist, Blockchain Enthusiast, Content Creator, and Technical writer. I use Salesforce Apex, Visualforce Page, Lightning Web Component, Aura Component, and Apex triggers. In addition, I am well acquainted with Data analysis with Python, HubSpot, Graphics/Logo Design, 3D Design, and Video Editing. I have Implemented Salesforce for organizations in the Profit and Non-Profit sectors. I have also created videos on Salesforce Apex programming for teaching purposes. I have created Saas Applications for companies using the Declarative/Programmatic method in Salesforce and I always have applications am working on either completed or still in progress. I use tools like SLDS, LWC, JavaScript, and Aura components to build my apps.</h3>
+<!-- GitHub Profile README -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=authorlauren&label=Profile%20views&color=0e75b6&style=flat" alt="authorlauren" /> </p>
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=authorlauren" alt="authorlauren" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://github.com/[YourUsername]/[YourRepo]/blob/main/assets/header.png" alt="[Your Name] Header Image" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/[YourLinkedIn]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="mailto:[YourEmail]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://github.com/[YourUsername]">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate Salesforce developer with a knack for creating dynamic, user-friendly, and efficient solutions. My skill set includes:
+
+- **Lightning Web Components (LWC)**
+- **Aura Components**
+- **Apex & Apex Triggers**
+- **Visualforce Pages**
+- **JavaScript**
+
+## 🛠️ My Skills
+
+### Languages & Technologies
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-0098D7?style=for-the-badge&logo=apex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools & Platforms
+
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+## 📫 Contact Me
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/[YourLinkedIn])
+- Email: [YourEmail](mailto:[YourEmail])
+
+---
+
+<p align="center">
+  <img src="https://github.com/[YourUsername]/[YourRepo]/blob/main/assets/footer.png" alt="[Your Name] Footer Image" />
+</p>
