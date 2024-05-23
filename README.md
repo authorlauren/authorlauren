@@ -20,6 +20,10 @@
   <a href="https://t.me/jideagain">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
+    <!-- Your YouTube Button -->
+  <a href="https://www.youtube.com/channel/UCsfNZAz4WcZR7J9NnzXsiUw?sub_confirmation=1">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+  </a>
 </p>
 
 ---
