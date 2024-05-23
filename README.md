@@ -70,9 +70,6 @@ I'm a passionate Salesforce developer with a knack for creating dynamic, user-fr
   <a href="https://www.youtube.com/watch?v=3A4whNiMQsI" target="_blank">
     <img src="https://img.youtube.com/vi/3A4whNiMQsI/0.jpg" alt="Video 4 Thumbnail" width="200" height="auto" style="margin: 10px;" />
   </a>
-  <a href="https://www.youtube.com/watch?v=tDkri4WJUmY" target="_blank">
-    <img src="https://img.youtube.com/vi/tDkri4WJUmY/0.jpg" alt="Video 5 Thumbnail" width="200" height="auto" style="margin: 10px;" />
-  </a>
 </p>
 
 ---
@@ -87,4 +84,6 @@ I'm a passionate Salesforce developer with a knack for creating dynamic, user-fr
   <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Associate.png" alt="Associate" width="200" height="auto" style="margin: 10px;" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=authorlauren&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=authorlauren&style=for-the-badge" alt="Profile Views" />
+</p>
