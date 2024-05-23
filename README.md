@@ -24,6 +24,9 @@
   <a href="https://www.youtube.com/channel/UCsfNZAz4WcZR7J9NnzXsiUw?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a>
+   <a href="https://olajideotolorin-dev-ed.develop.my.site.com/portfolio/s/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge" />
+  </a>
 </p>
 
 ---
