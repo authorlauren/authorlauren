@@ -1,11 +1,13 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi, I'm Olajide Otolorin 👋</h1>
-
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+   
+   <h6 align="center">
+      <img src="https://github.com/authorlauren/authorlauren/blob/main/astro-success_services.png" height="60" /> Trust, Customer Success, Innovation, Equality, and Sustainability! 🤝 <img src="https://github.com/authorlauren/authorlauren/blob/main/EINSTEIN_Coat_Point2HeadRight_SFS20_sRGB.png" height="60" />
+  </h6>
 
 <p align="center">
-  <img src="https://github.com/[YourUsername]/[YourRepo]/blob/main/assets/banner.png" alt="[Your Name] Banner Image" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/Olajide%20Otolorn%20(8).png" alt="[Your Name] Banner Image" />
 </p>
 
 <p align="center">
