@@ -17,7 +17,7 @@
   <a href="https://twitter.com/PrinceolaNft">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-  <a href="https://t.me/@jideagain">
+  <a href="https://t.me/jideagain">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
 </p>
@@ -58,10 +58,16 @@ I'm a passionate Salesforce developer with a knack for creating dynamic, user-fr
 ## 📫 Contact Me
 
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/[YourLinkedIn])
-- Email: [YourEmail](mailto:[YourEmail])
+- Email: [Gmail](mailto:lajotmay@gmail.com)
 
 ---
-
+## 📜 Salesforce Certifications
 <p align="center">
-  <img src="https://github.com/authorlauren/[YourRepo]/blob/main/assets/footer.png" alt="[Your Name] Footer Image" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Admin%20cert.png" alt="Administrator" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Platform%20App%20builder.png" alt="Platform App Buider" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Platform%20developer%201.png" alt="Platform developer 1" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/CPQ%20Specialist.png" alt="CPQ Specialist" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Sales%20Cloud%20Consultant.png" alt="Sales Cloud" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Ai%20Associate..png" alt="AI Associate" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Associate.png" alt="Associate" width="200" height="auto" style="margin: 10px;" />
 </p>
