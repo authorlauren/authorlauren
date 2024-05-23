@@ -1,3 +1,4 @@
+[![MasterHead](https://www.linkedin.com/in/olajide-otolorin/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm Olajide Otolorin</h1>
 <h3 align="center">I am a Salesforce Developer, CPQ Specialist, Blockchain Enthusiast, Content Creator, and Technical writer. I use Salesforce Apex, Visualforce Page, Lightning Web Component, Aura Component, and Apex triggers. In addition, I am well acquainted with Data analysis with Python, HubSpot, Graphics/Logo Design, 3D Design, and Video Editing. I have Implemented Salesforce for organizations in the Profit and Non-Profit sectors. I have also created videos on Salesforce Apex programming for teaching purposes. I have created Saas Applications for companies using the Declarative/Programmatic method in Salesforce and I always have applications am working on either completed or still in progress. I use tools like SLDS, LWC, JavaScript, and Aura components to build my apps.</h3>
 
