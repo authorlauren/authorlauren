@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'm Olajide Otolorin 👋</h1>
    
    <h6 align="center">
-      <img src="https://github.com/authorlauren/authorlauren/blob/main/astro-success_services.png" height="60" /> Trust, Customer Success, Innovation, Equality, and Sustainability! 🤝 <img src="https://github.com/authorlauren/authorlauren/blob/main/EINSTEIN_Coat_Point2HeadRight_SFS20_sRGB.png" height="60" />
+      <img src="https://github.com/authorlauren/authorlauren/blob/main/astro-success_services.png" height="60"  /> Trust, Customer Success, Innovation, Equality, and Sustainability! 🤝 <img src="https://github.com/authorlauren/authorlauren/blob/main/EINSTEIN_Coat_Point2HeadRight_SFS20_sRGB.png" height="60" />
   </h6>
 
 <p align="center">
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/Olajide%20Otolorn%20(8).png" alt="Olajide Otolorin" style="width: 100%; max-width: 600px; height: auto; />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/Olajide%20Otolorn%20(8).png" alt="Olajide Otolorin" style="width: 100%; max-width: 600px; height: auto;" />
 </p>
 
 <p align="center">
@@ -82,13 +82,13 @@ I'm a passionate Salesforce developer with a knack for creating dynamic, user-fr
 ---
 ## 📜 Salesforce Certifications
 <p align="center">
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Admin%20cert.png" alt="Administrator" width="200" height="auto" style="margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Platform%20App%20builder.png" alt="Platform App Buider" width="200" height="auto" style="margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Platform%20developer%201.png" alt="Platform developer 1" width="200" height="auto" style="margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/CPQ%20Specialist.png" alt="CPQ Specialist" width="200" height="auto" style="margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Sales%20Cloud%20Consultant.png" alt="Sales Cloud" width="200" height="auto" style="margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Ai%20Associate..png" alt="AI Associate" width="200" height="auto" style="margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Associate.png" alt="Associate" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Admin%20cert.png" alt="Administrator" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Platform%20App%20builder.png" alt="Platform App Buider" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Platform%20developer%201.png" alt="Platform developer 1" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/CPQ%20Specialist.png" alt="CPQ Specialist" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Sales%20Cloud%20Consultant.png" alt="Sales Cloud" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Ai%20Associate..png" alt="AI Associate" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Associate.png" alt="Associate" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
 </p>
 
 <p align="center">
