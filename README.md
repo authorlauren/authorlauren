@@ -77,18 +77,28 @@ I'm a passionate Salesforce developer with a knack for creating dynamic, user-fr
   <a href="https://www.youtube.com/watch?v=3A4whNiMQsI" target="_blank">
     <img src="https://img.youtube.com/vi/3A4whNiMQsI/0.jpg" alt="Video 4 Thumbnail" width="200" height="auto" style="margin: 10px;" />
   </a>
+   <p align="center">
+  <a href="https://www.youtube.com/channel/UCsfNZAz4WcZR7J9NnzXsiUw?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/badge/More%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="More Videos" />
+  </a>
+</p>
 </p>
 
 ---
 ## 📜 Salesforce Certifications
 <p align="center">
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Admin%20cert.png" alt="Administrator" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Platform%20App%20builder.png" alt="Platform App Buider" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Platform%20developer%201.png" alt="Platform developer 1" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/CPQ%20Specialist.png" alt="CPQ Specialist" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Sales%20Cloud%20Consultant.png" alt="Sales Cloud" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Ai%20Associate..png" alt="AI Associate" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Associate.png" alt="Associate" width="100%" height="auto" style="max-width: 200px; margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Admin%20cert.png" alt="Administrator" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Platform%20App%20builder.png" alt="Platform App Buider" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Platform%20developer%201.png" alt="Platform developer 1" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/CPQ%20Specialist.png" alt="CPQ Specialist" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Sales%20Cloud%20Consultant.png" alt="Sales Cloud" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Ai%20Associate..png" alt="AI Associate" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Associate.png" alt="Associate" width="200" height="auto" style="margin: 10px;" />
+</p>
+
+## 📜 Copado/Gearset Certifications
+<p align="center">
+   <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Copado%20Cert%20PnG.png" alt="Administrator" width="200" height="auto" style="margin: 10px;" />
 </p>
 
 <p align="center">
