@@ -7,7 +7,7 @@
   </h6>
 
 <p align="center">
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/Olajide%20Otolorn%20(8).png" alt="Olajide Otolorin" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/Olajide%20Otolorn%20(8).png" alt="Olajide Otolorin" style="width: 100%; max-width: 600px; height: auto; />
 </p>
 
 <p align="center">
