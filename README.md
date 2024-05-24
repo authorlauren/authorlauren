@@ -96,7 +96,7 @@ I'm a passionate Salesforce developer with a knack for creating dynamic, user-fr
   <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Associate.png" alt="Associate" width="200" height="auto" style="margin: 10px;" />
 </p>
 
-## 📜 Copado/Gearset Certifications
+## 📜 Copado Certifications
 <p align="center">
    <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Copado%20Cert%20PnG.png" alt="Component" width="200" height="auto" style="margin: 10px;" />
   
