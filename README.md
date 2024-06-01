@@ -39,7 +39,13 @@ I'm a passionate Salesforce developer with a knack for creating dynamic, user-fr
 - **Aura Components**
 - **Apex & Apex Triggers**
 - **Visualforce Pages**
+- **SOQL and SOSL**
+- **Integration**
+- **REST API & SOAP API**
 - **JavaScript**
+- **Python Programming Language**
+- **Linux Environment**
+
 
 ## 🛠️ My Skills
 
