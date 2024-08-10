@@ -106,7 +106,7 @@ I'm a passionate Salesforce developer with a knack for creating dynamic, user-fr
 ## 📜 Copado Certifications
 <p align="center">
    <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Copado%20Cert%20PnG.png" alt="Component" width="200" height="auto" style="margin: 10px;" />
-  
+   <img src="" alt="Component" width="200" height="auto" style="margin: 10px;" />
 </p>
 
 <p align="center">
