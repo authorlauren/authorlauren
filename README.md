@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Salesforce developer with a knack for creating dynamic, user-friendly, and efficient solutions. My skill set includes:
+I'm a passionate Salesforce developer / Prompt Engineering with a knack for creating dynamic, user-friendly, and efficient solutions. My skill set includes:
 
 - **Lightning Web Components (LWC)**
 - **Aura Components**
