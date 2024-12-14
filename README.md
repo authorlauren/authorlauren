@@ -101,8 +101,8 @@ I'm a passionate Salesforce developer / Prompt Engineering with a knack for crea
   <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Ai%20Associate..png" alt="AI Associate" width="200" height="auto" style="margin: 10px;" />
   <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Associate.png" alt="Associate" width="200" height="auto" style="margin: 10px;" />
   <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Data%20Architect.png" alt="Data Architect" width="200" height="auto" style="margin: 10px;" />
-  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Cert4723671_ServiceCloudConsultant_20240731_page-0001.jpg" alt="Data Architect" width="200" height="auto" style="margin: 10px;" />
-
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Cert4723671_ServiceCloudConsultant_20240731_page-0001.jpg" alt="Service Cloud" width="200" height="auto" style="margin: 10px;" />
+  <img src="https://github.com/authorlauren/authorlauren/blob/main/cert%20png/Cert5172077_AISpecialist_20241101_page-0001.jpg" alt="AI Specialist" width="200" height="auto" style="margin: 10px;" />
 </p>
 
 ## 📜 Copado Certifications
