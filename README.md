@@ -66,31 +66,6 @@ I'm a passionate Salesforce developer / Prompt Engineering with a knack for crea
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 
-
-
-
-## 🎥 YouTube Videos
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=EqxUDQlyflY" target="_blank">
-    <img src="https://img.youtube.com/vi/EqxUDQlyflY/0.jpg" alt="Video 1 Thumbnail" width="200" height="auto" style="margin: 10px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=mrZnGHsGEHo" target="_blank">
-    <img src="https://img.youtube.com/vi/mrZnGHsGEHo/0.jpg" alt="Video 2 Thumbnail" width="200" height="auto" style="margin: 10px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=-_hITh2Boiw" target="_blank">
-    <img src="https://img.youtube.com/vi/-_hITh2Boiw/0.jpg" alt="Video 3 Thumbnail" width="200" height="auto" style="margin: 10px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=3A4whNiMQsI" target="_blank">
-    <img src="https://img.youtube.com/vi/3A4whNiMQsI/0.jpg" alt="Video 4 Thumbnail" width="200" height="auto" style="margin: 10px;" />
-  </a>
-   <p align="center">
-  <a href="https://www.youtube.com/channel/UCsfNZAz4WcZR7J9NnzXsiUw?sub_confirmation=1" target="_blank">
-    <img src="https://img.shields.io/badge/More%20Videos-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="More Videos" />
-  </a>
-</p>
-</p>
-
 ---
 ## 📜 Salesforce Certifications
 <p align="center">
