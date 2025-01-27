@@ -17,13 +17,16 @@
   <a href="https://twitter.com/PrinceolaNft">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
   </a>
-  <a href="https://t.me/jideagain">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
-  </a>
+   
+   <a href="https://medium.com/@otomighty" target="_blank">
+       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+   </a>
+
     <!-- Your YouTube Button -->
   <a href="https://www.youtube.com/channel/UClpbEWX6N-pDnoPs0jrgjgw?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
   </a>
+  
    <a href="https://mediathings-dev-ed.develop.my.site.com/mediathings/s/">
    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge" />
 
