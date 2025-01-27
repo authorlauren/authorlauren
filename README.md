@@ -22,10 +22,9 @@
        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
    </a>
 
-    <!-- Your YouTube Button -->
-  <a href="https://www.youtube.com/channel/UClpbEWX6N-pDnoPs0jrgjgw?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
-  </a>
+   <a href="https://www.salesforce.com/trailblazer/princeola" target="_blank">
+       <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=trailhead&logoColor=white" alt="Trailhead Badge" />
+   </a>
   
    <a href="https://mediathings-dev-ed.develop.my.site.com/mediathings/s/">
    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=website&logoColor=white" alt="Website Badge" />
